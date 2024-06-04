@@ -1,3 +1,5 @@
+Test 2
+
 She always hated how the suit fitted her. She felt weirded out by almost everything about it, its slight humming sound, how the ankles were slightly too tight to run comfortably, how the helmet pressed on her cheeks, but what she hated the most was the fact that her suit never picked up environmental hazards on time.
 
 [[EnvSuits]] have evolved over time to become thinner, lighter and more capable. Everyone used them, even when not needed, but now, she knew she couldn't take it off. As per usual for the [[Myonin]], she was ready to fight. Although, she knew, deep inside, that fighting was best executed with a suit.
